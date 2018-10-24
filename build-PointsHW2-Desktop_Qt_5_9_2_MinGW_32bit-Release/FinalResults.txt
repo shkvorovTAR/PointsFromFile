@@ -1,0 +1,2 @@
+Results: 
+Has perimeter 0 and area 0
